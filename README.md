@@ -1,3 +1,3 @@
-# gym-project-1
+# gym-project
 Lección 1 de Gymnasium - MWD
-Proyecto que comprende la primer tarea del Nivel 1 de Modern Web Design en Gymnasium 
+Proyecto que comprenden las tareas del Curso de Modern Web Design en Gymnasium 
